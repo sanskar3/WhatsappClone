@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786550407309",
+    "firebase_url": "https://backbencher-a8123.firebaseio.com",
+    "project_id": "backbencher-a8123",
+    "storage_bucket": "backbencher-a8123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786550407309:android:81a1e076ad80483c79a2c4",
+        "android_client_info": {
+          "package_name": "com.backbencher.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786550407309-rur82ksn1ib9n9ddqkunkr42nss488a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNlrD9NmjQigzTalCBZ48gDbSsIVUC-Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786550407309-rur82ksn1ib9n9ddqkunkr42nss488a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
